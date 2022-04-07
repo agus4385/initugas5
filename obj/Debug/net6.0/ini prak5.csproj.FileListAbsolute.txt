@@ -1,0 +1,5 @@
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\ini prak5\obj\Debug\net6.0\ini prak5.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\ini prak5\obj\Debug\net6.0\ini prak5.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\ini prak5\obj\Debug\net6.0\ini prak5.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\ini prak5\obj\Debug\net6.0\ini prak5.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 2\PEMOGRAMAN\21.11.4385\ini prak5\obj\Debug\net6.0\ini prak5.csproj.CoreCompileInputs.cache
